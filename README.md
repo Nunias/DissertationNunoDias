@@ -1,1 +1,2 @@
-# DissertationNunoDias
+# Dissertation Codes
+## By Nuno Dias
